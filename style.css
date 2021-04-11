@@ -1,0 +1,43 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 0em 2em;
+}
+
+h1 {
+  font-family: timesnewroman;
+  color: darkblue;
+  font-style: bold;
+}
+
+h2 {
+  font-family:timesnewroman
+}
+
+h4 {
+  font-family: papyrus; 
+  color: goldenrod;
+}
+
+p {
+  font-family: timesnewroman
+}
+
+ul {
+  font-family: timesnewroman
+}
+#navbar {
+  overflow: hidden;
+  background-color: black;
+}
+
+/* Navbar links */
+#navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
